@@ -1,0 +1,9 @@
+i# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment folder (if you create one locally)
+kivy_env/
+
+# Ignore VS Code settings folder
+.vscode/
